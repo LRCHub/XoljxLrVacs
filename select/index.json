@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "美しい世界",
+  "base_artist": "うきまる",
+  "createdAt": "2026-02-24T15:10:58.072054Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "美しい世界 (feat. みーぽん。)",
+      "artist": "うきまる",
+      "has_synced": false,
+      "path": "select/pl_01_美しい世界_(feat._みーぽん。)_うきまる.txt"
+    }
+  ]
+}
